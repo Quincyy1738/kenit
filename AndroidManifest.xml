@@ -10,7 +10,7 @@
     <application
         android:label="MathQuiz"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ehh192">
         <activity
             android:name=".MainActivity"
             android:exported="true"
